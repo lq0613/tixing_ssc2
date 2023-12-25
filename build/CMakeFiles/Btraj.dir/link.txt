@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Btraj.dir/src/cub_extend_3d.cc.o CMakeFiles/Btraj.dir/src/cub_wrapper.cpp.o CMakeFiles/Btraj.dir/src/cuboid_3d.cc.o CMakeFiles/Btraj.dir/src/piecewise_jerk_problem.cc.o  -o bin/Btraj -losqp 

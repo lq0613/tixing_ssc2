@@ -1,0 +1,3 @@
+/home/liuqiao/project_vscode/spectral-main/build/CMakeFiles/rebuild_cache.dir
+/home/liuqiao/project_vscode/spectral-main/build/CMakeFiles/Btraj.dir
+/home/liuqiao/project_vscode/spectral-main/build/CMakeFiles/edit_cache.dir
